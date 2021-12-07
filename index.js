@@ -38,3 +38,4 @@ fs.writeFileSync('notes.json',date.porson.toString())
 
 const myFile=fs.readFileSync("./notes.txt").toString()
 console.log(myFile)
+console.log("thank you god ")
